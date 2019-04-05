@@ -4,7 +4,7 @@
 * [IsolatedStorageStreamProvider.cs](./CS/Export_Import_Example/IsolatedStorageStreamProvider.cs) (VB: [IsolatedStorageStreamProvider.vb](./VB/Export_Import_Example/IsolatedStorageStreamProvider.vb))
 * [IsolatedStorageUriProvider.cs](./CS/Export_Import_Example/IsolatedStorageUriProvider.cs) (VB: [IsolatedStorageUriProvider.vb](./VB/Export_Import_Example/IsolatedStorageUriProvider.vb))
 * [MainPage.xaml](./CS/Export_Import_Example/MainPage.xaml) (VB: [MainPage.xaml](./VB/Export_Import_Example/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Export_Import_Example/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Export_Import_Example/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Export_Import_Example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Export_Import_Example/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: How to load and save documents and pictures
 
